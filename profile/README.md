@@ -7,6 +7,7 @@ Welcome to **Okay-but-how-to**, where we simplify coding concepts and empower de
 ### 🔍 **What We Do**
 
 - **Educational Resources**: Dive into curated guides and tutorials that break down complex concepts into easy-to-understand steps.
+- **Write Blogs**: We share our insights and experiences through detailed blog posts that cover a wide range of topics in software development.  
 - **Open-Source Contributions**: Contribute to our growing collection of open-source projects! Whether you’re fixing bugs, adding features, or enhancing documentation, we welcome your contributions to help make our community-driven resources better for everyone.
 - **Open-Source Tools**: Explore our repositories filled with reusable code, templates, and tools to accelerate your projects.
 - **Collaborative Learning**: Join our community to ask questions, share insights, and support each other’s growth.
@@ -21,10 +22,24 @@ Welcome to **Okay-but-how-to**, where we simplify coding concepts and empower de
 
 ---
 
-### 🌟 **Featured Projects** (newbie)
+### 🌟 **Featured Projects (TBD)**
 
 - **[Project Name](#)**: Brief description of a popular project.  
 - **[Another Project](#)**: Brief description of another key project.
+
+---
+
+### 📝 **Blogs**
+
+- Check out our blog for detailed posts on various coding topics:  
+  - **[Okay-but-how-to Blog on Hashnode](https://okay-but-how-to.hashnode.dev/)**
+
+---
+
+### 💻 **Demo Platforms**
+
+- Explore our projects and run live demos directly in your browser:  
+  - **[Okay-but-how-to on StackBlitz](https://stackblitz.com/orgs/github/Okay-But-How-to)**
 
 ---
 
@@ -38,7 +53,3 @@ Welcome to **Okay-but-how-to**, where we simplify coding concepts and empower de
 
 Let’s turn "okay, but how?" moments into "that's how!" solutions.  
 **Together, we can make learning and building accessible to everyone.**
-
----
-
-This revision includes a dedicated section for open-source contributions under "What We Do" to highlight the importance of community-driven development and collaboration.
